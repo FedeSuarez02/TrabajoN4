@@ -1,0 +1,30 @@
+body{
+    background-color: #E11364 ;
+    margin: 70px;
+}
+.titulo{
+    position: relative; 
+    background-color:#BC105C; 
+    text-align: center;
+    border-left: 5px solid #fff; 
+    border-right: 5px solid #fff;
+    padding: 1px;
+    margin: 60px;
+}
+h1{ 
+    color: white;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} 
+.imagen{
+    position: relative;
+    background-color: #BC105C;
+    text-align: left;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 60px;
+}
+.imagen img{
+    width: 100%;
+    height: auto;
+}

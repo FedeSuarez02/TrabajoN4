@@ -1,6 +1,7 @@
 body{
     background-color: #E11364 ;
     margin: 70px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .titulo{
     position: relative; 
@@ -14,7 +15,6 @@ body{
 h1{ 
     color: white;
     font-size: 30px;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 } 
 .imagen{
     position: relative;
@@ -27,4 +27,24 @@ h1{
 .imagen img{
     width: 100%;
     height: auto;
+}
+
+.info{
+    background-color:  #e113657b;
+    border-radius: 5px;
+    text-align: center;
+    color: #fff;
+}
+.info h2{
+    padding-top: 10px;
+    border-top-style: solid; ;
+}
+.info p, .info h3{
+    text-align: left;
+    margin-left: 10px;
+}
+
+
+footer{
+    text-align: center;
 }
